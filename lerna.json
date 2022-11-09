@@ -4,6 +4,7 @@
   "useWorkspaces": true,
   "registry": "test",
   "command": {
-    "version": {}
+    "version": {},
+    "publish": {}
   }
 }
