@@ -4,7 +4,7 @@
   "useWorkspaces": true,
   "command": {
     "version": {
-      "noGitTagVersion": true
+      "gitTagVersion": false
     }
   }
 }
