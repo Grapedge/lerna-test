@@ -1,6 +1,6 @@
 {
   "name": "header",
-  "version": "1.1.4-alpha.0",
+  "version": "1.1.4-alpha.1",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
@@ -22,5 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "bcc83e5101d8610b33d326de394412bc0e2e08fe"
+  "gitHead": "3e4a8ee300320ad737537f25293d5c46fd699e76"
 }
