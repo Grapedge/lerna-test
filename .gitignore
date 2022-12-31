@@ -7,3 +7,10 @@ packages/remixapp/build
 packages/remixapp/public/build
 .env
 
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
